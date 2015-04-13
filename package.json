@@ -1,0 +1,22 @@
+{
+  "name": "delijn",
+  "version": "0.1.0",
+  "description": "A command line utility for getting the departures of De Lijn",
+  "main": "lib/delijn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sebastian Van Sande",
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+    "delijn": "bin/delijn.js"
+  },
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "commander": "^2.7.1",
+    "lodash": "^3.6.0",
+    "moment": "^2.10.2",
+    "request": "^2.55.0"
+  }
+}
