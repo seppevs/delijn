@@ -13,7 +13,7 @@
     "delijn": "bin/delijn.js"
   },
   "dependencies": {
-    "chalk": "^1.0.0",
+    "chalk": "^4.1.1",
     "commander": "^2.7.1",
     "lodash": "^3.6.0",
     "moment": "^2.10.2",
